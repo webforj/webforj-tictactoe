@@ -4,3 +4,9 @@ A simple implementation of a Tic-Tac-Toe game that supports two players taking t
 
 
 https://github.com/user-attachments/assets/4853853e-eb18-428f-9463-6fc7d76453ea
+
+# To Run The game
+
+```
+mvn jetty:run
+```
